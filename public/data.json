@@ -1,0 +1,103 @@
+[
+    {
+      "gameCoverUrl": "https://example.com/image1.jpg",
+      "gameTitle": "The Last Quest",
+      "reviewDescription": "An epic adventure with stunning visuals.",
+      "rating": 9,
+      "publishingYear": 2023,
+      "genre": "Adventure",
+      "userEmail": "user1@example.com",
+      "userName": "JohnDoe"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image2.jpg",
+      "gameTitle": "Space Invaders Reborn",
+      "reviewDescription": "A nostalgic experience with a modern twist.",
+      "rating": 8,
+      "publishingYear": 2022,
+      "genre": "Action",
+      "userEmail": "user2@example.com",
+      "userName": "JaneSmith"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image3.jpg",
+      "gameTitle": "Mystic Realms",
+      "reviewDescription": "Great storyline but slightly clunky controls.",
+      "rating": 7,
+      "publishingYear": 2024,
+      "genre": "RPG",
+      "userEmail": "user3@example.com",
+      "userName": "GamerGuy"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image4.jpg",
+      "gameTitle": "Racing Mania",
+      "reviewDescription": "Fast-paced fun with incredible graphics.",
+      "rating": 8,
+      "publishingYear": 2021,
+      "genre": "Racing",
+      "userEmail": "user4@example.com",
+      "userName": "SpeedyGonzalez"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image5.jpg",
+      "gameTitle": "Horror Nights",
+      "reviewDescription": "Terrifying and thrilling, a must-play.",
+      "rating": 9,
+      "publishingYear": 2023,
+      "genre": "Horror",
+      "userEmail": "user5@example.com",
+      "userName": "SpookyFan"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image6.jpg",
+      "gameTitle": "Battle Royale Legends",
+      "reviewDescription": "Highly competitive and engaging gameplay.",
+      "rating": 8,
+      "publishingYear": 2022,
+      "genre": "Shooter",
+      "userEmail": "user6@example.com",
+      "userName": "Sharpshooter"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image7.jpg",
+      "gameTitle": "Puzzle Paradise",
+      "reviewDescription": "Relaxing and challenging at the same time.",
+      "rating": 7,
+      "publishingYear": 2020,
+      "genre": "Puzzle",
+      "userEmail": "user7@example.com",
+      "userName": "Brainiac"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image8.jpg",
+      "gameTitle": "Fantasy World Builders",
+      "reviewDescription": "Create and manage your dream kingdom.",
+      "rating": 8,
+      "publishingYear": 2021,
+      "genre": "Simulation",
+      "userEmail": "user8@example.com",
+      "userName": "SimMaster"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image9.jpg",
+      "gameTitle": "Stealth Ops",
+      "reviewDescription": "Exciting missions but requires patience.",
+      "rating": 8,
+      "publishingYear": 2023,
+      "genre": "Stealth",
+      "userEmail": "user9@example.com",
+      "userName": "ShadowWalker"
+    },
+    {
+      "gameCoverUrl": "https://example.com/image10.jpg",
+      "gameTitle": "Sports Champions",
+      "reviewDescription": "A fun way to experience your favorite sports.",
+      "rating": 9,
+      "publishingYear": 2024,
+      "genre": "Sports",
+      "userEmail": "user10@example.com",
+      "userName": "SportsFan"
+    }
+  ]
+  

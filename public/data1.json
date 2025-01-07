@@ -1,0 +1,11 @@
+{
+    "gameCoverUrl": "https://example.com/image1.jpg",
+    "gameTitle": "The Last Quest",
+    "reviewDescription": "An epic adventure with stunning visuals.",
+    "rating": 9,
+    "publishingYear": 2023,
+    "genre": "Adventure",
+    "userEmail": "user1@example.com",
+    "userName": "JohnDoe"
+  }
+
