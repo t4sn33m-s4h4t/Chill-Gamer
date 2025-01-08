@@ -30,6 +30,7 @@ Chill Gamer is a user-friendly game review application. The goal of this project
 - **React-Social-Login-Buttons**: Integrate social login buttons (e.g., Google, GitHub).
 - **React-Toastify**: For showing real-time notifications such as success or error messages.
 - **SweetAlert2**: A beautiful popup alert system for confirmations and messages.
+<img src="https://github.com/t4sn33m-s4h4t/Chill-Gamer/blob/main/ss.png" />
 
 ## Live Site
 
