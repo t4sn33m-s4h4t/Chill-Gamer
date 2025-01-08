@@ -6,7 +6,7 @@
 
 Chill Gamer is a user-friendly game review application. The goal of this project is to design a platform where users can explore and share game reviews. This application includes key features such as user authentication and review management to enhance the user experience. The platform focuses on providing a clean, responsive UI for a seamless, "chill" experience.
 
-<img href="https://github.com/t4sn33m-s4h4t/Chill-Gamer/blob/main/ss.png" />
+<img src="https://github.com/t4sn33m-s4h4t/Chill-Gamer/blob/main/ss.png" />
 
 ## Main Technologies
 
